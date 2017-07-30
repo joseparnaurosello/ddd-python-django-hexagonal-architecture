@@ -1,0 +1,7 @@
+*.pyc
+*/migrations/*
+.project
+.pydevproject
+db.sqlite3
+org.eclipse.core.resources.prefs
+
