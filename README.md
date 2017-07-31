@@ -1,1 +1,1 @@
-# joseparnaurosello-ddd-python-django-hexagonal-architecture
+ddd-python-django-hexagonal-architecture
